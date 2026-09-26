@@ -64,5 +64,3 @@ This guide explains how you can easily add new projects, update existing ones, a
 - **Email**: [lenminibhagya@gmail.com](mailto:lenminibhagya@gmail.com)
 - **LinkedIn**: [linkedin.com/in/bhagya-lenmini-dewasurendra](https://www.linkedin.com/in/bhagya-lenmini-dewasurendra?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - **GitHub**: [github.com/bldewasurendra](https://github.com/bldewasurendra)
-- **Phone**: `0771759318` ([tel:+94771759318](tel:+94771759318))
-- **WhatsApp**: [Chat directly on WhatsApp](https://wa.me/94771759318)

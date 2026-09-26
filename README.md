@@ -80,4 +80,3 @@ To run this portfolio locally on your machine:
 - **Email**: [lenminibhagya@gmail.com](mailto:lenminibhagya@gmail.com)
 - **LinkedIn**: [Bhagya Lenmini Dewasurendra](https://www.linkedin.com/in/bhagya-lenmini-dewasurendra)
 - **GitHub**: [@bldewasurendra](https://github.com/bldewasurendra)
-- **Phone**: +94 77 175 9318
